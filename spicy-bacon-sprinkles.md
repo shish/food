@@ -15,7 +15,7 @@ Supplies
 --------
 
 * 370ml Valentina Salsa Picante (I call this "hot sauce" but I don't know if that's correct)
-* 750g Thick-cut bacon (I use a mixture of smoked and unsmoked because I don't know the difference)
+* 750g Thick-cut bacon (I use a mixture of smoked and unsmoked because I don't know the difference, but thick-cut definitely works better than thin-cut)
 * Mixing bowl
 * Air fryer (I'm still not sure exactly what counts as an air fryer - I mean an oven tray with a mesh layer)
 * Food processor (I keep calling this a blender but I think those are two different tools??)
