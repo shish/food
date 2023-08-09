@@ -4,7 +4,7 @@ Spicy Bacon Sprinkles
 Context
 -------
 I wanted to make more things taste like bacon - I saw that some company had come up with
-[https://www.deliciou.com/products/bacon-seasoning?variant=39581734797410](Bacon Seasoning),
+[Bacon Seasoning](https://www.deliciou.com/products/bacon-seasoning),
 but I found that it tasted like "bacon-flavoured crisps" (ie, super-fake and chemical-y
 and gave me a headache) rather than actually tasting like real bacon. After some trial and
 error and mad-sciencing in the kitchen, I came up with something that isnt quite bacon
