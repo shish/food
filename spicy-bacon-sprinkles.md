@@ -49,6 +49,8 @@ Process
 Uses
 ----
 * Sprinkle onto pasta
+  ![Pastaaa](./spicy-bacon-sprinkles/pastaaa.jpeg?raw=true)
+
 * Have a sandwich with spicy bacon and cheese
 * Eat straight out of the box like a carnivorous little goblin
 
