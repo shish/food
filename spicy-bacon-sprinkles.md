@@ -35,6 +35,7 @@ Process
 1. Put into the oven on a relatively low heat for a long time (100C for an hour? Need to confirm. I don't actually time it, I just keep checking until it looks right), the goal being to dry out the sauce while leaving some moisture in the meat
     * Often I end up taking it out of the oven and shuffling it about a bit, then putting it back in so that different parts are exposed and they dry evenly
     ![Shuffle](./spicy-bacon-sprinkles/shuffle.jpeg?raw=true)
+    ![Touch](./spicy-bacon-sprinkles/touch.jpeg?raw=true)
     * There will be a layer of spicy fatty goo in the bottom of the tray, I'm sure there's a use for this but I haven't found one... (If you want your entire house to smell like spices and bacon, you could make a tallow candle?)
 1. When the strips are dry to the touch, stick them into a food processor to break them into tiny pieces, which also reveals the moist bacon inside the dry spicy shell
   ![Blend1](./spicy-bacon-sprinkles/blend1.jpeg?raw=true)
